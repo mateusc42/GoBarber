@@ -1,19 +1,12 @@
-<div align="center">
-    <img src="https://res.cloudinary.com/stefanosaffran/image/upload/v1593524185/zfwgali2ynkoeysxw40m.svg" width="300px"/>
-</div>
-
-<br />
-
 <h2 align="center">
-   💈✂️ GoBarber ✂️💈
+   GoBarber
 </h2>
 
 <p align="center">
   <a href="#computer-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-built-with">Built with</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-how-to-run">How to run</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#mailbox_with_mail-get-in-touch">Get in touch</a>
+  <a href="#commits">Commits</a>
   </p>
 
 <p align="center">
@@ -205,5 +198,24 @@ $ yarn start
 
 # in another tab install and run the app
 $ yarn android
+```
 
+## :commits: How to commit
+
+```bash
+feat: A new feature
+
+fix: A bug fix
+
+docs: Documentation only changes
+
+style: Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)
+
+refactor: A code change that neither fixes a bug or adds a feature
+
+perf: A code change that improves performace
+
+test: Adding missing tests
+
+chore: Changes to the build process or auxiliary tools and libraries such as documentation generation
 ```
